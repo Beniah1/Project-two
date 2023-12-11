@@ -46,3 +46,4 @@ function typeWriter(text, i, fnCallback) {
   // start the text animation
   StartTextAnimation(0);
 });
+
