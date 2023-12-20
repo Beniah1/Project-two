@@ -139,7 +139,7 @@ body {
 }
 @media screen and (max-width: 768px) {
   .section-3 {
-    height: 660px;
+    height: 680px;
   }
 }
 
@@ -243,7 +243,7 @@ body {
 }
 
 .section-4-mt {
-  margin-top: 39%;
+  margin-top: 19%;
 }
 
 @media screen and (max-width: 168px) {
@@ -273,4 +273,9 @@ body {
 
 .section-5-mt {
   margin-top: 16%;
+}
+.text-ml-mr {
+  margin-left: 10%;
+  margin-right: 10%;
+
 }
